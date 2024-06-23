@@ -20,7 +20,7 @@ A simple weather application built with React that allows users to get the curre
    git clone https://github.com/PalampalliPraneeth/Weather-application.git
    cd Weather-application
    ```
-2. Install Dependencies
+2. Install Dependencies:
    ```bash
    npm install
    ```
