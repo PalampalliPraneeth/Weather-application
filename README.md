@@ -22,7 +22,6 @@ A simple weather application built with React that allows users to get the curre
    ```
 2. Install Dependencies
    ```bash
-   cd weather-application
    npm install
    ```
 3. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
