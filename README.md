@@ -17,13 +17,13 @@ A simple weather application built with React that allows users to get the curre
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/PalampalliPraneeth/Weather-application.git
-  cd Weather-application
-  ```
+   git clone https://github.com/PalampalliPraneeth/Weather-application.git
+   cd Weather-application
+   ```
 2. Install Dependencies
    ```bash
-  cd weather-application
-  npm install
+   cd weather-application
+   npm install
    ```
 3. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
    ```bash
